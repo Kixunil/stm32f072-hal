@@ -1,22 +1,22 @@
 [package]
-authors = ["Daniel Egger <daniel@eggers-club.de>"]
+authors = ["Martin Habovstiak <martin.habovstiak@gmail.com>"]
 categories = [
     "embedded",
     "hardware-support",
     "no-std",
 ]
-description = "Peripheral access API for STM32F042 microcontrollers"
-documentation = "https://docs.rs/stm32f042-hal"
+description = "Peripheral access API for STM32F072 microcontrollers"
+documentation = "https://docs.rs/stm32f072-hal"
 keywords = [
     "arm",
     "cortex-m",
-    "stm32f042",
+    "stm32f072",
     "hal",
 ]
 license = "0BSD"
-name = "stm32f042-hal"
+name = "stm32f072-hal"
 readme = "README.md"
-repository = "https://github.com/therealprof/stm32f042-hal"
+repository = "https://github.com/kixunil/stm32f042-hal"
 version = "0.6.5"
 
 [dependencies]
